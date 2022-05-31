@@ -1,0 +1,26 @@
+id: IF19D26D2
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:51:11.327851'
+last_modified: '2022-05-31T06:51:11.327873'
+parser: null
+source_metadata:
+  title: Pawo Lerab Tsal Series
+  language: fr
+  description: 'Texts by and about the eighteenth century treasure-revealer Pawo Lerab
+    Tsal (dpa'' bo las rab rtsal) alias Cheyöl Rigdzin Chenmo (che yol rig ''dzin
+    chen mo):'
+  volume:
+    fE37C:
+      title: The Prayer to Orgyen Rinpoche that Invokes the Heart of his Wisdom Mind
+      base_file: fE37C.txt
+      order: 1
+      parent: Guru Rinpoche Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
